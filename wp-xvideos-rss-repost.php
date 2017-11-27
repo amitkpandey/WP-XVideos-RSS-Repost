@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: WP XVideos RSS Repost
-Plugin URI:
+Plugin URI: https://github.com/BackrndSource/WP-XVideos-RSS-Repost
 Description: This plugin allows the user to automatically post the videos from XVideos RSS Feed Channel to the wordpress blog. Works for any themes.
 Version: 1.0
 Author: BackRndSource 
